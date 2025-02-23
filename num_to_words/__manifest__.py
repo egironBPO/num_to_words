@@ -1,7 +1,6 @@
-# -*- coding: utf-8 -*-
 {
     'name': 'Convert number to words',
-    'version': '12.0',
+    'version': "16.0.1.0.0",
     'author': "Fogits Solutions",
     'summary': """
     This module allows you to convert number to words """,

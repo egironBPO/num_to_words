@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 
 from num2words import num2words
 from odoo import api, fields, models, _
